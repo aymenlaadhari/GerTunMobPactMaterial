@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "977159461782",
+    "firebase_url": "https://newmobpact.firebaseio.com",
+    "project_id": "newmobpact",
+    "storage_bucket": "newmobpact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977159461782:android:09b5819ebb78f6e8",
+        "android_client_info": {
+          "package_name": "com.example.aladhari.dastexangebot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977159461782-e912n5v3l1drcd3uli8to5ube3ieqs1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWAX1KWEkLcuwgBy3jm7cFJH7qeYVzJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977159461782:android:e543ade24bed3d93",
+        "android_client_info": {
+          "package_name": "com.example.aladhari.gertunmobpact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977159461782-e912n5v3l1drcd3uli8to5ube3ieqs1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSWAX1KWEkLcuwgBy3jm7cFJH7qeYVzJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
